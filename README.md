@@ -20,13 +20,21 @@ The study includes:
 ## 📁 Repository Structure
 
 Marketing-Campaign-Analysis/
+
 │
-├── dataset/                # raw & cleaned data
-├── notebooks/              # Jupyter notebooks (main analysis)
-├── images/                 # visualizations used in report & README
-├── report/                 # summary PDF and business insights
-├── requirement.txt         # dependencies
-└── README.md               # project documentation
+
+├── dataset/               # Raw & cleaned dataset
+
+├── notebooks/             # Jupyter notebooks used for analysis & modeling
+
+├── images/                # Visualization outputs (EDA, SHAP, etc.)
+
+├── report/                # Insight summary & final PDF report
+
+├── requirement.txt        # Project dependencies
+
+└── README.md              # Project documentation
+
 
 ## 🔑 Key Insights
 
